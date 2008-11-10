@@ -38,6 +38,7 @@ lib/relevance/tarantula/result.rb
 lib/relevance/tarantula/test_report.html.erb
 lib/relevance/tarantula/tidy_handler.rb
 lib/relevance/tarantula/transform.rb
+lib/relevance/tarantula/unexpected_url_handler.rb
 lib/relevance/tarantula.rb
 manifest.txt
 MIT-LICENSE
@@ -67,6 +68,7 @@ test/relevance/tarantula/rails_integration_proxy_test.rb
 test/relevance/tarantula/result_test.rb
 test/relevance/tarantula/tidy_handler_test.rb
 test/relevance/tarantula/transform_test.rb
+test/relevance/tarantula/unexpected_url_handler_test.rb
 test/relevance/tarantula_test.rb
 test/test_helper.rb
 uninstall.rb
